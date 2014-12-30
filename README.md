@@ -40,6 +40,7 @@ Minimalistic and semantic grid system based on [griddle](https://github.com/neco
 ```
 
 **Result**
+
 ![multi-grid-sample](https://cloud.githubusercontent.com/assets/4419992/5581983/14693d2e-9041-11e4-8e44-415b16e7fbeb.jpg)
 
 ## Browser support
