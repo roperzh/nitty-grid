@@ -1,4 +1,5 @@
-# Nitty Grid
+![nitty-grid-logo](https://cloud.githubusercontent.com/assets/4419992/5698520/6648b26c-99ee-11e4-8885-8e0308773825.png)
+
 
 Minimalistic and semantic grid system based on [griddle](https://github.com/necolas/griddle).
 
